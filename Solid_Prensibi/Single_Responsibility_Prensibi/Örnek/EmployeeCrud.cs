@@ -1,4 +1,4 @@
-﻿using Solid_Prensibi.Single_Responsibility_Prensibi.Örnek;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -6,6 +6,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Data.SqlClient;
 
 namespace Single_Responsibility_Prensibi._2.Örnek
 {

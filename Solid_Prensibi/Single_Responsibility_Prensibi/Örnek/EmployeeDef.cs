@@ -17,7 +17,7 @@ using System.Data.SqlClient;
 // EmployeeCrud ,  EmployeeConnection , EmployeeProcess , EmployeeDef
 
 
-
+using Microsoft.Data.SqlClient;
 namespace Single_Responsibility_Prensibi._2.Örnek
 {
     public class EmployeeDef
