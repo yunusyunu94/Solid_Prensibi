@@ -8,7 +8,7 @@ namespace Solid_Prensibi.Single_Responsibility_Prensibi.Ornek2
 {
     public class EmployeeProcess
     {
-        {
+        
         public void Proces()
         {
             Console.WriteLine("**** deneme ");
@@ -18,4 +18,4 @@ namespace Solid_Prensibi.Single_Responsibility_Prensibi.Ornek2
         }
     }
 }
-}
+

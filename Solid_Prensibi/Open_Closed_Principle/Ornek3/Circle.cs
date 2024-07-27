@@ -9,7 +9,7 @@ namespace Solid_Prensibi.Open_Closed_Principle.Ornek3
     public class Circle : Shape 
     {
 
-        public double Radius { get; set; } // Radius; Yaricap
+        public double Radius { get; set; } 
 
 
         public Circle(double radius)
@@ -18,7 +18,7 @@ namespace Solid_Prensibi.Open_Closed_Principle.Ornek3
         }
 
 
-        public override double Area() // Area: Alan
+        public override double Area() 
         {
             return Radius * Radius * Math.PI;
         }

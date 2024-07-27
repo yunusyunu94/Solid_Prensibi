@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Solid_Prensibi.Open_Closed_Principle.Ornek3
 {
-    public class AreaCalculate // Alan hesaplama
+    public class AreaCalculate 
     {
-        public double Area(Shape[] shapes) // Areat: Alan
+        public double Area(Shape[] shapes) 
         {
             double area = 0;
 
