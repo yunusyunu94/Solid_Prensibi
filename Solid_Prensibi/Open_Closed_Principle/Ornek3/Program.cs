@@ -21,7 +21,6 @@ namespace Solid_Prensibi.Open_Closed_Principle.Ornek3
             Console.WriteLine(c.Area());
 
 
-
             Console.ReadLine();
         }
     }
