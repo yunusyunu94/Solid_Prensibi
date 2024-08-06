@@ -17,7 +17,7 @@ namespace Dependency_Inversion_Principle.Ornek2
         {
             Console.WriteLine("Yeni Mail Geldi");
             Console.WriteLine("Kimden:" + ToAdress + "Konu:" + Subject +
-                "İçerik" + Connect);
+                "İçerik" + Connect); 
         }
     }
 }
