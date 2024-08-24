@@ -20,7 +20,7 @@ namespace Solid_Prensibi.Open_Closed_Principle.Ornek1
                 halkban.GonderilecekHesapNo("123");
                 halkban.Gonder(tutar);
 
-                Ahmet ahmet =new();
+                Ahmet ahmet = new();
                 ahmet.HesapNo = "asdfdsa";
             }
 
@@ -48,6 +48,7 @@ namespace Solid_Prensibi.Open_Closed_Principle.Ornek1
             class Ahmet
             {
                 public string HesapNo { get; set; }
+            }
         }
     }
 }
